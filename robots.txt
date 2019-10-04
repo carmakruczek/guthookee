@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aewejieni.nathanlaan.com/sitemap.xml
